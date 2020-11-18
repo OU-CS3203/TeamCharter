@@ -40,15 +40,10 @@ So the project is to incorporate [Hatsune Miku](https://www.youtube.com/watch?v=
  * GitHub collaboration
  * Creativity
  * C++, Java, Linux Terminal
-##### Brayden
-* Rust
 ##### Bailey
-* MATLAB
-* Arduino
-##### Clay
-* VBA
+* Anime enthusiast and activist
 ##### Jake
-* R
+* Music & Theatrical Performance Education 
 
 RACI matrix of roles and responsibilities
 
