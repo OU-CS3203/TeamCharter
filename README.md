@@ -72,9 +72,10 @@ Serve Rafal the best quality assignments he has ever had while supporting good c
 
 
 ### Seventh (Sixth) Element - Team Member Assessment and Evaluations
-student name |  Quantity-score | Quality-score | Timeliness-score | Communication-score
------------------------------
-Clay Curry | 10 | 10 | 10 |10
-Bailey McCarty|10|10|10|10
-Brayden Mckelvey|10|10|10|10
-Jake Parker-Howe|10|10|10|10
+
+| Student Name      | Quantity Score     | Quality Score     | Timeliness-score | Communication-score |
+| :------------- | :----------: | -----------: | -----------: | -----------: |
+| Clay Curry | 10 | 10 | 10 |10 |
+| Bailey McCarty|10|10|10|10 |
+| Brayden Mckelvey|10|10|10|10 |
+| Jake Parker-Howe|10|10|10|10 \| |
