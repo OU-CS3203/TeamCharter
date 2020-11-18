@@ -1,11 +1,15 @@
 #TEAM CHARTER README FILE
 
 ### First Element - Background
-    Who is the team leader? Second? ...
+    Clay Curry is the team leader and Bailey McCarty is the second. 
 
-    What do key statekholders need and epect from the team?
+    What do key stakeholders need and expect from the team?
+    
+    The key stakeholders on our team are each of us, as our work exclusively affects us.
 
     What does each member bring to the team and their expectations?
+    
+    Each team member brings unique skills and perspective that is extemely vital when it comes to making requirements as words can be subjective. By having people with different     back grounds and life experiences look over our work, we can verify that our requirements are clearly written. I believe we all expect for our team to get an A. 
 
 
 ### Second Element - Mission
