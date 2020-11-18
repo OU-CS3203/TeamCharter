@@ -46,15 +46,6 @@ Got it boss.
 
 ### Fourth Element - Budget and Resources
 
-top-down method - team uses the budget provided for the relevant time period, and decides how to divide it up among projets and tasks.
-    
-????????? We don't have a budget
-
-bottom up method - team as a group decides what kind of budet and resoures it needs for its operations, and requests it of the larer organization.
-
-Our approach will more than likely be the top-down method.
-
-
 
 ### Fifth Element - Internal Checks, Balances, and Reviews
 What is expected of each member and when?  
