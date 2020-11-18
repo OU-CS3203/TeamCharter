@@ -38,7 +38,12 @@ Commitment and perserverance
 Note gaps
 
 RACI matrix of roles and responsibilities
-no idea how to incorporate this.
+| Student Name      | Merge Ideas     | Create Website Map     | UI Patterns | Consult w/ Rafal | Quality Assurance |
+| :------------- | :----------: | -----------: | -----------: | -----------: | -----------: |
+| Clay Curry | a | a | a | | r |
+| Bailey McCarty| a | a | r | i | c |
+| Brayden Mckelvey| r | a | a | i | c |
+| Jake Parker-Howe| a | r | a | i | c |
 
 Make sure every member is heard. 
 Got it boss.
