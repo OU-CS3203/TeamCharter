@@ -60,6 +60,10 @@ Got it boss.
 
 ### Fourth Element - Budget and Resources
 
+|  Name      |   Type   |  Importance  | Cost |
+| :--------- | :------: | -----------: | ---: |
+| Vocaloid3 Hatsune Miku V3 Bundle | Software | High | $249.99
+
 
 ### Fifth Element - Internal Checks, Balances, and Reviews
 #### What is expected of each member and when?  
