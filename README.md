@@ -31,11 +31,24 @@ Our goal is to perform at the highest level that we reasonably can and to accomp
 
 ### Third element - Roles
 #### Who is doing what?
-So the project is to incorporate Hatsune Miku in the website [EOMF](http://eomf.ou.edu/) and use the UI design pattern website to provide decent human computer interaction.
+So the project is to incorporate [Hatsune Miku](https://www.youtube.com/watch?v=nbFxHdszYvA&t=3884s) in the website [EOMF](http://eomf.ou.edu/) and use the UI design pattern website to provide decent human computer interaction.
 
 #### Assess all the expertise needed for the team to achieve its goals 
-Commitment and perserverance
-Note gaps
+
+##### ALL
+ * Communication
+ * GitHub collaboration
+ * Creativity
+ * C++, Java, Linux Terminal
+##### Brayden
+* Rust
+##### Bailey
+* MATLAB
+* Arduino
+##### Clay
+* VBA
+##### Jake
+* R
 
 RACI matrix of roles and responsibilities
 
@@ -47,7 +60,7 @@ r: responsible a: accountable c: consulted i: informed
 | Brayden Mckelvey| r | a | c | i | c |
 | Jake Parker-Howe| i | r | i | a | i |
 
-Make sure every member is heard. 
+#### Make sure every member is heard. 
 Got it boss.
 
 
@@ -55,13 +68,11 @@ Got it boss.
 
 
 ### Fifth Element - Internal Checks, Balances, and Reviews
-What is expected of each member and when?  
+#### What is expected of each member and when?  
 Get it done.
 
-Full team check-ins  
-Goals set and met for each check-in (possibly 3 Teams check in with GroupMe conversations in between)
-
-Ensure no confusion about performance and individual assignments.  
+#### Full team check-ins  
+Goals set and met for each check-in (possibly 3 Teams check in with GroupMe conversations in between). Ensure no confusion about performance and individual assignments.  
 
 
 ### Seventh (Sixth) Element - Team Member Assessment and Evaluations
