@@ -73,7 +73,7 @@ Serve Rafal the best quality assignments he has ever had while supporting good c
 
 ### Seventh (Sixth) Element - Team Member Assessment and Evaluations
 
-| Student Name      | Quantity Score     | Quality Score     | Timeliness-score | Communication-score |
+| Student Name      | Quantity-score     | Quality-score     | Timeliness-score | Communication-score |
 | :------------- | :----------: | -----------: | -----------: | -----------: |
 | Clay Curry | 10 | 10 | 10 |10 |
 | Bailey McCarty|10|10|10|10 |
