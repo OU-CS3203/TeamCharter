@@ -1,4 +1,4 @@
-#TEAM CHARTER README FILE
+# TEAM CHARTER - G5
 
 ### First Element - Background
 #### Who is the team leader? Who is second?
