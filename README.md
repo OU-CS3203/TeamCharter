@@ -40,10 +40,10 @@ Note gaps
 RACI matrix of roles and responsibilities
 | Student Name      | Merge Ideas     | Create Website Map     | UI Patterns | Consult w/ Rafal | Quality Assurance |
 | :------------- | :----------: | -----------: | -----------: | -----------: | -----------: |
-| Clay Curry | a | a | a | r | r |
-| Bailey McCarty| a | a | r | i | c |
-| Brayden Mckelvey| r | a | a | i | c |
-| Jake Parker-Howe| a | r | a | i | c |
+| Clay Curry | c | i | a | r | r |
+| Bailey McCarty| a | c | r | c | a |
+| Brayden Mckelvey| r | a | c | i | c |
+| Jake Parker-Howe| i | r | i | a | i |
 
 Make sure every member is heard. 
 Got it boss.
