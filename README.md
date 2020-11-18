@@ -31,7 +31,7 @@ Our goal is to perform at the highest level that we reasonably can and to accomp
 
 ### Third element - Roles
 #### Who is doing what?
-So the project is to incorporate Hatsune Miku in the website [EOMF](http://eomf.ou.edu/) and use the UI design pattern website to provide decent human computer interaction.
+So the project is to incorporate [Hatsune Miku](https://www.youtube.com/watch?v=nbFxHdszYvA&t=3884s) in the website [EOMF](http://eomf.ou.edu/) and use the UI design pattern website to provide decent human computer interaction.
 
 #### Assess all the expertise needed for the team to achieve its goals 
 Commitment and perserverance
