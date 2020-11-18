@@ -73,4 +73,4 @@ Ensure no confusion about performance and individual assignments.
 | Clay Curry | 10 | 10 | 10 |10 |
 | Bailey McCarty|10|10|10|10 |
 | Brayden Mckelvey|10|10|10|10 |
-| Jake Parker-Howe|10|10|10|10 \| |
+| Jake Parker-Howe|10|10|10|10 |
