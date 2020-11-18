@@ -1,34 +1,32 @@
 #TEAM CHARTER README FILE
 
 ### First Element - Background
- Who is the team leader? Who is second?
+ Who is the team leader? Who is second?  
   Clay Curry is the team leader and Bailey McCarty is the second. 
 
-    What do key stakeholders need and expect from the team?
-    
-    The key stakeholders on our team are each of us, as our work exclusively affects us. As we are the primary people effected, we have extremely high expectations for our work. 
-Stakeholders need and expect us to deliver a quality product in a timely manner.
+ What do key stakeholders need and expect from the team?  
+  The key stakeholders on our team are each of us, as our work exclusively affects us. As we are the primary people affected, we have extremely high expectations for our work.  
+  Stakeholders need and expect us to deliver a quality product in a timely manner.
 
-    What does each member bring to the team and their expectations?
-    
-    Each team member brings unique skills and perspective that is extemely vital when it comes to making requirements as words can be subjective. By having people with different back grounds and life experiences look over our work, we can verify that our requirements are clearly written. I believe we all expect for our team to get an A. 
-We believe each member brings their own thoughts and ideas to the table. The expectations should be that everyone is in this together and no one works on it alone. Our team has been very good with that.
+ What does each member bring to the team and their expectations?  
+  Each team member brings unique skills and perspective that is extemely vital when it comes to making requirements, as words can be subjective. By having people with different backgrounds and life experiences look over our work, we can verify that our requirements are clearly written. I believe we all expect for our team to get an A.  
+  We believe each member brings their own thoughts and ideas to the table. The expectations should be that everyone is in this together and no one works on it alone. Our team has been very good with that.
 
 
 
 ### Second Element - Mission
-    What does success look like?
-    Success is an "A" in the course and a positive work experience while we are in pursuit of that. Success looks like completing the main task at hand in a timely manner with limited amount of stress. (For this situation at least).
+ What does success look like?  
+  Success is an "A" in the course and a positive work experience while we are in pursuit of that. Success looks like completing the main task at hand in a timely manner with limited amount of stress (for this situation at least).
     
-    Spell out the principles:
-    Just Do It.
+ Spell out the principles:  
+  Just Do It.
 
-    Craft a mission statement that is succinct
-Serve Rafal the best quality assignments he has ever had while supporting good coding practices according to the IEEE Transactions on Software Engineering.
+ Craft a mission statement that is succinct:  
+  Serve Rafal the best quality assignments he has ever had while supporting good coding practices according to the IEEE Transactions on Software Engineering.
 
-    Create interim deadlines
-    Our goal is to perform at the highest level that we reasonably can and to accomplish our definition of success. 
-    Projects are to be partitioned into smaller completable tasks that are completed in the quickest time possible. This due Wednesday night.
+ Create interim deadlines:  
+  Our goal is to perform at the highest level that we reasonably can and to accomplish our definition of success.  
+  Projects are to be partitioned into smaller, completable tasks that are completed in the quickest time possible. This is due Wednesday night.
     
 
 
@@ -50,25 +48,25 @@ Serve Rafal the best quality assignments he has ever had while supporting good c
 
 
 ### Fourth Element - Budget and Resources
-    top-down method - team uses the budget provided for the relevant time period, and decides how to divide it up among projets and tasks.
+Top-Down method - team uses the budget provided for the relevant time period, and decides how to divide it up among projects and tasks.
     
-    ????????? We don't have a budget
+????????? We don't have a budget
 
-    bottom up method - team as a group decides what kind of budet and resoures it needs for its operations, and requests it of the larer organization.
+Bottom-Up method - team as a group decides what kind of budget and resources it needs for its operations, and requests it of the larger organization.
 
-    Our approach will more than likely be the top-down method.
+Our approach will more than likely be the top-down method.
 
 
 
 ### Fifth Element - Internal Checks, Balances, and Reviews
-    What is expected of each member and when?
-    Get it done.
+What is expected of each member and when?  
+Get it done.
 
-    Full team check-ins
-        Goals set and met for each check-in (possibly 3 Teams checkin with groupme conversations in between)
+Full team check-ins  
+Goals set and met for each check-in (possibly 3 Teams check in with GroupMe conversations in between)
 
-    Ensure no confusion about performanace and individual assignments.
-    This entire assignment is confusing.
+Ensure no confusion about performance and individual assignments.  
+This entire assignment is confusing.
 
 
 ### Seventh (Sixth) Element - Team Member Assessment and Evaluations
