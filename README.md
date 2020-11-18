@@ -34,6 +34,7 @@ Our goal is to perform at the highest level that we reasonably can and to accomp
 So the project is to incorporate [Hatsune Miku](https://www.youtube.com/watch?v=nbFxHdszYvA&t=3884s) in the website [EOMF](http://eomf.ou.edu/) and use the UI design pattern website to provide decent human computer interaction.
 
 #### Assess all the expertise needed for the team to achieve its goals 
+
 ##### ALL
  * Communication
  * GitHub collaboration
@@ -49,8 +50,15 @@ So the project is to incorporate [Hatsune Miku](https://www.youtube.com/watch?v=
 ##### Jake
 * R
 
-#### RACI matrix of roles and responsibilities
-no idea how to incorporate this.
+RACI matrix of roles and responsibilities
+
+r: responsible a: accountable c: consulted i: informed
+| Student Name      | Merge Ideas     | Create Website Map     | UI Patterns | Consult w/ Rafal | Quality Assurance |
+| :------------- | :----------: | -----------: | -----------: | -----------: | -----------: |
+| Clay Curry | c | i | a | r | r |
+| Bailey McCarty| a | c | r | c | a |
+| Brayden Mckelvey| r | a | c | i | c |
+| Jake Parker-Howe| i | r | i | a | i |
 
 #### Make sure every member is heard. 
 Got it boss.
