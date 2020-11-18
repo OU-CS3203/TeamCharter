@@ -62,7 +62,9 @@ Got it boss.
 
 |  Name      |   Type   |  Importance  | Cost |
 | :--------- | :------: | -----------: | ---: |
-| Vocaloid3 Hatsune Miku V3 Bundle | Software | High | $249.99
+| Vocaloid3 Hatsune Miku V3 Bundle | Software | High | $249.99 |
+| EMOF Website Space | Hardware | High | consult with IT |
+| Usage Rights | Licensing | Low | NA |
 
 
 ### Fifth Element - Internal Checks, Balances, and Reviews
