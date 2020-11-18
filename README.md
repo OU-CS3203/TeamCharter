@@ -15,6 +15,7 @@ We believe each member brings their own thoughts and ideas to the table. The exp
 
 
 ### Second Element - Mission
+
 #### What does success look like?
 Success is an "A" in the course and a positive work experience while we are in pursuit of that. Success looks like completing the main task at hand in a timely manner with limited amount of stress. (For this situation at least).
     
@@ -26,7 +27,6 @@ Serve Rafal the best quality assignments he has ever had while supporting good c
 
 #### Create interim deadlines
 Our goal is to perform at the highest level that we reasonably can and to accomplish our definition of success.  Projects are to be partitioned into smaller completable tasks that are completed in the quickest time possible. This due Wednesday night.
-    
 
 
 ### Third element - Roles
@@ -45,6 +45,7 @@ Got it boss.
 
 
 ### Fourth Element - Budget and Resources
+
 top-down method - team uses the budget provided for the relevant time period, and decides how to divide it up among projets and tasks.
     
 ????????? We don't have a budget
@@ -56,14 +57,13 @@ Our approach will more than likely be the top-down method.
 
 
 ### Fifth Element - Internal Checks, Balances, and Reviews
-What is expected of each member and when?
+What is expected of each member and when?  
 Get it done.
 
-Full team check-ins
-        Goals set and met for each check-in (possibly 3 Teams checkin with groupme conversations in between)
+Full team check-ins  
+Goals set and met for each check-in (possibly 3 Teams check in with GroupMe conversations in between)
 
-Ensure no confusion about performanace and individual assignments.
-This entire assignment is confusing.
+Ensure no confusion about performance and individual assignments.  
 
 
 ### Seventh (Sixth) Element - Team Member Assessment and Evaluations
