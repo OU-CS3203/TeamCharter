@@ -39,13 +39,12 @@ So the project is to incorporate [Hatsune Miku](https://www.youtube.com/watch?v=
  * Communication
  * GitHub collaboration
  * Creativity
- * C++, Java, Linux Terminal
 ##### Bailey
 * Anime enthusiast and activist
 ##### Jake
 * Music & Theatrical Performance Education 
 
-RACI matrix of roles and responsibilities
+#### RACI matrix of roles and responsibilities
 
 r: responsible a: accountable c: consulted i: informed
 | Student Name      | Merge Ideas     | Create Website Map     | UI Patterns | Consult w/ Rafal | Quality Assurance |
