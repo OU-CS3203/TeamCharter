@@ -38,6 +38,7 @@ Commitment and perserverance
 Note gaps
 
 RACI matrix of roles and responsibilities
+r: responsible a: accountable c: consulted i: informed
 | Student Name      | Merge Ideas     | Create Website Map     | UI Patterns | Consult w/ Rafal | Quality Assurance |
 | :------------- | :----------: | -----------: | -----------: | -----------: | -----------: |
 | Clay Curry | c | i | a | r | r |
