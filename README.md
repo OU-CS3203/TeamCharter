@@ -54,8 +54,6 @@ r: responsible a: accountable c: consulted i: informed
 | Brayden Mckelvey| r | a | c | i | c |
 | Jake Parker-Howe| i | r | i | a | i |
 
-#### Make sure every member is heard. 
-Got it boss.
 
 
 ### Fourth Element - Budget and Resources
@@ -73,9 +71,13 @@ It is expected that each team member contributes to the project and get it compl
 
 #### Full team check-ins  
 Goals set and met for each check-in:
+
   First Checkin: Before Thanksgiving Break (Get ideas merged together)
+  
   Second Checkin: Maybe during depending on the team's schedule. (How we implement Hatsune Miku on the site and possible sitemap)
+  
   Third Checkin: Before Presentation (finish details and prepare for presentaton)
+  
 
 These checkins should help clear any confusion about performance and individual assignments.
 
