@@ -70,7 +70,7 @@ r: responsible a: accountable c: consulted i: informed
 It is expected that each team member contributes to the project and get it completed before the week BEFORE finals (November 29th - December 4th).
 
 #### Full team check-ins  
-Goals set and met for each check-in:
+##### Goals set and met for each check-in:
 
   First Checkin: Before Thanksgiving Break (Get ideas merged together)
   
