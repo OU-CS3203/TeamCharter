@@ -69,10 +69,13 @@ Got it boss.
 
 ### Fifth Element - Internal Checks, Balances, and Reviews
 #### What is expected of each member and when?  
-Get it done.
+It is expected that each team member contributes to the project and get it completed before the week BEFORE finals (November 29th - December 4th).
 
 #### Full team check-ins  
-Goals set and met for each check-in (possibly 3 Teams check in with GroupMe conversations in between). Ensure no confusion about performance and individual assignments.  
+Goals set and met for each check-in: Ensure no confusion about performance and individual assignments.
+First Checkin: Before Thanksgiving Break (Get ideas merged together)
+Second Checkin: Maybe during depending on the team's schedule. (How we implement Hatsune Miku on the site and possible sitemap)
+Third Checkin: Before Presentation (finish details and prepare for presentaton)
 
 
 ### Seventh (Sixth) Element - Team Member Assessment and Evaluations
